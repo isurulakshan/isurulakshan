@@ -12,7 +12,6 @@ Hi there 👋
 📫 How to reach me: isurulakshan2012@gmail.com
 
 Connect with me:
-![image](https://user-images.githubusercontent.com/11138132/136785829-95207c0d-5598-4d45-9487-6f9773a7c01f.png)
 https://www.linkedin.com/in/isuru-chiththananda/
 <!---
 isurulakshan/isurulakshan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
