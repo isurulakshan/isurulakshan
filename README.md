@@ -1,9 +1,10 @@
 Hi there 👋
 🔭 Hi all, I'm Isuru Chiththananda. I worked with cloud and DevOps technologies.
 
-🏆 I’ve 5+ years of experience in Cloud, Windows and Linux technologies
+🏆 I’ve 7+ years of experience in Cloud, Windows and Linux technologies
 
-🇱🇰 I'm from Sri Lanka
+📍🇪🇪 Estonia 
+🏠🇱🇰 Sri Lanka
 
 
 📝 I’ve blogged here about Cloud technologies https://devopslab101.blogspot.com/
